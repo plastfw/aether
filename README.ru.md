@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/logo.png" alt="Логотип Aether" width="180">
-</p>
-
 # Aether
 
 Минимальный TUI-плеер радиостанций на Go + Bubble Tea + mpv.

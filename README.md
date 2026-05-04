@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/logo.png" alt="Aether logo" width="180">
-</p>
-
 # Aether
 
 [Русская версия](README.ru.md)
