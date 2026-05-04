@@ -1,0 +1,32 @@
+# Build outputs
+/bin/
+/dist/
+/build/
+
+# Go test / coverage artifacts
+*.test
+*.out
+coverage.out
+coverage.html
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+.tmp/
+tmp/
+
+# Editor / OS junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local agent/project context
+AGENTS.md
+
+# Local environment files
+.env
+.env.*
